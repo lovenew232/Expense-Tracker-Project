@@ -41,6 +41,7 @@ Introducing a comprehensive full-stack MERN application engineered for personal 
 Expense-Tracker-Project/
 ├── backend/       # Express.js API and MongoDB integration
 ├── frontend/      # React + Vite application
+├── .gitignore      
 └── README.md      # Project documentation
 ```
 
